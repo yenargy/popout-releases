@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Popout</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sun, 27 Sep 2026 15:04:07 +0530</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/yenargy/popout-releases/releases/download/v0.1.0/Popout.zip" length="51228351" type="application/octet-stream" sparkle:edSignature="rqU3wy6HiSjQK/J/wElUrQxFYt4f+sNINEYxmVnedwTOI2GQ0oGxIzX2/LBuKb7Z63YgTfFkn9M0hRSS0MAYCQ=="/>
+        </item>
+    </channel>
+</rss>
