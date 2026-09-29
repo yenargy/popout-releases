@@ -3,13 +3,13 @@
     <channel>
         <title>Popout</title>
         <item>
-            <title>0.1.1</title>
-            <pubDate>Mon, 28 Sep 2026 23:38:39 +0530</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <title>0.1.2</title>
+            <pubDate>Tue, 29 Sep 2026 16:29:38 +0530</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/yenargy/popout-releases/releases/download/v0.1.1/Popout.zip" length="51240092" type="application/octet-stream" sparkle:edSignature="4iCqOvu98xcg5YmNHCiMZQ0UQyC0o7F4VdiLEEixMU4XzKs+EG1fePvD/bD22zjjf7h9hNwaNSm8321wV0t4BA=="/>
+            <enclosure url="https://github.com/yenargy/popout-releases/releases/download/v0.1.2/Popout.zip" length="51244932" type="application/octet-stream" sparkle:edSignature="d9FULWLSsRnsFI7xci4z8FLB0apevJWZ2Kf2GJ3OniS+aQxO259f9QCHgR3bWwN3QIghCq6A5PJhDBb44r7xCA=="/>
         </item>
     </channel>
 </rss>
